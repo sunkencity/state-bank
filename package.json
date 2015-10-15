@@ -1,0 +1,15 @@
+{
+  "name": "state-bank",
+  "version": "0.0.1",
+  "description": "A test for state handling",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Joel Westerberg",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}

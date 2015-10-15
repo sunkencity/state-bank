@@ -1,0 +1,6 @@
+*.swp
+.git2
+*.swo
+._*
+.DS_Store
+node_modules
